@@ -11,3 +11,7 @@ The games we'd like to implement include:
 We're using and learning more about discord.py, pycord and the python language along the way, as well as incrementally testing our design as we go.
 
 -> peach3es & maxx
+
+
+ARCHIVED ON SEPT 12, 2022
+for the purpose of forking a new repository from peach3es/discord-bot now that it is public with enhanced security.
